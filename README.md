@@ -50,7 +50,7 @@ The stage channel for live sessions including Open Chat and [Talking Postgres](h
 
 ## Upcoming Events
 
-- June 2026: Talking Postgres (E40)
+- June 8, 2026 @ 10:00am PT: [How I got started running a Postgres user group with Jeremy Schneider (E40)](https://aka.ms/talkingpostgres-ep40-cal)
 
 
 ## Past Events
