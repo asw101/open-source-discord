@@ -38,7 +38,7 @@ Connect with us live and get help with our [Azure Open Source Labs (Azure-Sample
 
 ### #posetteconf
 
-[POSETTE: An Event for Postgres](https://posetteconf.com). A virtual developer event. June 10-12, 2025.
+[POSETTE: An Event for Postgres](https://posetteconf.com). A virtual developer event. June 16-18, 2026.
 
 ### #talkingpostgres
 
@@ -50,11 +50,11 @@ The stage channel for live sessions including Open Chat and [Talking Postgres](h
 
 ## Upcoming Events
 
-- June 8, 2026 @ 10:00am PT: [How I got started running a Postgres user group with Jeremy Schneider (E40)](https://aka.ms/talkingpostgres-ep40-cal)
-
+- June 16-18, 2026: [POSETTE: An Event for Postgres 2026](https://posetteconf.com)
 
 ## Past Events
 
+- June 8, 2026: [How I got started running a Postgres user group with Jeremy Schneider (E40)](https://talkingpostgres.com/episodes/how-i-got-started-running-a-postgres-user-group-with-jeremy-schneider)
 - May 6, 2026: [Talking Postgres: From MemSQL to HorizonDB, an engineer's journey with Adam Prout (E39)](https://talkingpostgres.com/episodes/from-memsql-to-horizondb-an-engineers-journey-with-adam-prout)
 - April 8, 2026: [Talking Postgres: How I went from Oracle to Postgres (with a big NoSQL detour) with Gwen Shapira (E38)](https://talkingpostgres.com/episodes/how-i-went-from-oracle-to-postgres-with-a-big-nosql-detour-with-gwen-shapira)
 - March 18, 2026: [Talking Postgres: Building Postgres services on Azure with Charles Feddersen (E37)](https://talkingpostgres.com/episodes/building-postgres-services-on-azure-with-charles-feddersen)
