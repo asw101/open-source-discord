@@ -50,10 +50,11 @@ The stage channel for live sessions including Open Chat and [Talking Postgres](h
 
 ## Upcoming Events
 
-- June 16-18, 2026: [POSETTE: An Event for Postgres 2026](https://posetteconf.com)
+- July 14, 2026 @ 10:00am PT: [Working on Postgres after 13 years on SQL Server with Panagiotis "Panos" Antonopoulos (E41)](https://aka.ms/talkingpostgres-ep41-cal)
 
 ## Past Events
 
+- June 16-18, 2026: [POSETTE: An Event for Postgres 2026](https://posetteconf.com)
 - June 8, 2026: [How I got started running a Postgres user group with Jeremy Schneider (E40)](https://talkingpostgres.com/episodes/how-i-got-started-running-a-postgres-user-group-with-jeremy-schneider)
 - May 6, 2026: [Talking Postgres: From MemSQL to HorizonDB, an engineer's journey with Adam Prout (E39)](https://talkingpostgres.com/episodes/from-memsql-to-horizondb-an-engineers-journey-with-adam-prout)
 - April 8, 2026: [Talking Postgres: How I went from Oracle to Postgres (with a big NoSQL detour) with Gwen Shapira (E38)](https://talkingpostgres.com/episodes/how-i-went-from-oracle-to-postgres-with-a-big-nosql-detour-with-gwen-shapira)
