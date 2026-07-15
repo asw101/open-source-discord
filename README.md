@@ -50,7 +50,7 @@ The stage channel for live sessions including Open Chat and [Talking Postgres](h
 
 ## Upcoming Events
 
-- July 14, 2026 @ 10:00am PT: [Working on Postgres after 13 years on SQL Server with Panagiotis "Panos" Antonopoulos (E41)](https://aka.ms/talkingpostgres-ep41-cal)
+- July 14, 2026 @ 10:00am PT: [Talking Postgres: Working on Postgres after 13 years on SQL Server with Panagiotis "Panos" Antonopoulos (E41)](https://aka.ms/talkingpostgres-ep41-cal)
 
 ## Past Events
 
