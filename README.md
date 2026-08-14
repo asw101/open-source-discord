@@ -50,6 +50,8 @@ The stage channel for live sessions including Open Chat and [Talking Postgres](h
 
 ## Upcoming Events
 
+- September 16, 2026 @ 10:00am PT: [Talking Postgres: with guest Peter Eisentraut (E43)](https://discord.gg/microsoft-open-source)
+
 ## Past Events
 
 - August 12, 2026: [Talking Postgres: How AI is changing software development with Simon Willison (E42)](https://talkingpostgres.com/episodes/how-ai-is-changing-software-development-with-simon-willison)
